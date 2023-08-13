@@ -5,7 +5,14 @@
 Welcome to my cutting-edge Personal Portfolio Project! 🚀 In this project, I've harnessed the power of modern technologies to create a unique and immersive experience for showcasing my artistic endeavors.
 
 # loock's like 
-![screenshot of sameer's portfolio](src/assets/git_reference/big_screen/catogory_searching.png)
+![screenshot of sameer's portfolio](src/assets/screenshots_for_github/desktop/showPick1L.png)
+---
+![screenshot of sameer's portfolio](src/assets/screenshots_for_github/desktop/showPick2L.png)
+---
+![screenshot of sameer's portfolio](src/assets/screenshots_for_github/desktop/showPick3L.png)
+---
+![screenshot of sameer's portfolio](src/assets/screenshots_for_github/desktop/showPick4L.png)
+
 
 ## Technologies Used
 
