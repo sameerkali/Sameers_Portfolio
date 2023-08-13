@@ -100,7 +100,8 @@
 @media (max-width: 700px) {
   .project-menu {
     width: 28rem;
-    flex-direction: column;
+    flex-direction: row;
+    padding-left: 4rem;
     align-items: center;
   }
   .project-menu p {
