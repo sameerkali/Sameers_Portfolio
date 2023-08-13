@@ -7,13 +7,13 @@ export default class ProjectsMenu extends Component {
   constructor(props) {
     super(props);
     this.state = {
-      activeProject: 1,
+      activeProject: 1
     };
   }
 
   handleProjectClick = (project) => {
     this.setState({
-      activeProject: project,
+      activeProject: project
     });
   };
 
@@ -37,7 +37,14 @@ export default class ProjectsMenu extends Component {
 
   render() {
     const { activeProject } = this.state;
-    const projectItems = ["PROJECT ONE", "PROJECT TWO", "PROJECT THREE"];
+    const projectItems = [
+      "PROJECT ONE",
+      "PROJECT TWO",
+      "PROJECT THREE",
+      "PROJECT FOUR",
+      "PROJECT FIVE",
+      "PROJECT SIX"
+    ];
 
     return (
       <div className="project-menu">
@@ -46,7 +53,7 @@ export default class ProjectsMenu extends Component {
             <div
               key={index}
               className={classNames("project-item", {
-                activeProject: activeProject === index + 1,
+                activeProject: activeProject === index + 1
               })}
               onClick={() => this.handleProjectClick(index + 1)}
             >
