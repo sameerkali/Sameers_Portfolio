@@ -8,7 +8,6 @@ export default function ContactMenu() {
     email: "",
     message: "",
   };
-
   const [formData, setFormData] = useState(initialState);
   const [errors, setErrors] = useState({});
   const [isLoading, setIsLoading] = useState(false);
@@ -42,7 +41,7 @@ export default function ContactMenu() {
     const serviceID = process.env.REACT_APP_EMAILJS_SERVICE_ID;
     const templateID = process.env.REACT_APP_EMAILJS_TEMPLATE_ID;
     const userID = process.env.REACT_APP_EMAILJS_USER_ID;
-
+    
     emailjs
       .send(serviceID, templateID, sanitizedData, userID)
       .then((response) => {
