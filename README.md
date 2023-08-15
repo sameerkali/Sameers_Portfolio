@@ -39,8 +39,8 @@ Feel free to reach out to me via email, and let's embark on a journey of creativ
 ---
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/sameerkali/Indie_Gems_Portal.git`
-2. Navigate to the project directory: `cd Indie_Gems_Portal`
+1. Clone the repository: `git clone https://github.com/sameerkali/Sameers_Rsume.git`
+2. Navigate to the project directory: `cd Sameers_resume`
 3. Install dependencies: `npm install`
 
 ## Usage
