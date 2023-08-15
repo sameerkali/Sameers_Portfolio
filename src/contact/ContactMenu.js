@@ -89,7 +89,7 @@ export default function ContactMenu() {
       {!isSent && (
         <form onSubmit={handleSubmit}>
           <div className="form-group">
-            <label htmlFor="name">Name:</label>
+            <label htmlFor="name">:</label>
             <input
               type="text"
               id="name"
@@ -105,7 +105,7 @@ export default function ContactMenu() {
             )}
           </div>
           <div className="form-group">
-            <label htmlFor="email">Email:</label>
+            <label htmlFor="email">:</label>
             <input
               type="email"
               id="email"
@@ -121,7 +121,7 @@ export default function ContactMenu() {
             )}
           </div>
           <div className="form-group">
-            <label htmlFor="message">Message:</label>
+            <label htmlFor="message">:</label>
             <textarea
               id="message"
               name="message"
