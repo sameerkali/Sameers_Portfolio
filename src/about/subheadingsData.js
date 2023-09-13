@@ -5,10 +5,10 @@ const subheadingsData = {
       content: (
         <>
           <p>
-            I'm Sameer Faridi, a versatile full stack developer. With a knack
-            for clean and effective code, I relish tackling intricate coding
-            ventures. My experience spans diverse programs, and I'm always eager
-            to embrace demanding coding projects to create impactful solutions.
+            Hi, I'm Sameer Faridi, a frontend developer. I specialize in
+            technologies like React, Next.js, MongoDB, Prisma, Redis, and
+            Express.js. With JavaScript and Node.js, I create user-friendly web
+            applications. Let's work together to bring your ideas to life.
           </p>
         </>
       )
@@ -60,21 +60,6 @@ const subheadingsData = {
     }
   ],
   3: [
-    {
-      title: "Part-Time OpenSource Contributer",
-      content: (
-        <>
-          <p>
-            As a part-time OpenSource contributor on GitHub, I've been
-            leveraging full-stack skills. While my contributions may not be
-            monumental yet, my unwavering dedication and self-belief drive me.
-            With persistent effort, I aim to make a transformative impact and
-            usher in a more technologically advanced world through a
-            game-changing contribution.
-          </p>
-        </>
-      )
-    },
     {
       title: "2023 Front End Developer",
       content: (
