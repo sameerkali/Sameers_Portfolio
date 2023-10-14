@@ -40,7 +40,8 @@ export default class ProjectsMenu extends Component {
     const projectItems = [
       "PROJECT ONE",
       "PROJECT TWO",
-      "PROJECT THREE"
+      "PROJECT THREE",
+      "PROJECT Four"
     ];
 
     return (
