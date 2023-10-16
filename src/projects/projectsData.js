@@ -2,6 +2,8 @@ import projectOne from "../assets/project-1.png";
 import projectTwo from "../assets/project-2.png";
 import projectThree from "../assets/project-3.png";
 import projectFour from "../assets/project-4.png";
+import projectFive from "../assets/project-5.png";
+import projectSix from "../assets/project-6.png";
 
 const projects = {
   1: {
@@ -56,6 +58,36 @@ const projects = {
   4: {
     title: "Portfolio for client",
     image: projectThree,
+    description: (
+      <>
+        <p>
+          Welcome to my cutting-edge Personal Portfolio Project! 🚀 In This
+          project, Ive harnessed the power of modern technologies to create a
+          unique and immersive experience for showcasing my artistic endeavors.
+        </p>
+      </>
+    ),
+    github: "https://github.com/sameerkali/portfolio69",
+    demo: "https://sameer69.netlify.app/"
+  },
+  5: {
+    title: "Portfolio for client",
+    image: projectFive,
+    description: (
+      <>
+        <p>
+          Welcome to my cutting-edge Personal Portfolio Project! 🚀 In This
+          project, Ive harnessed the power of modern technologies to create a
+          unique and immersive experience for showcasing my artistic endeavors.
+        </p>
+      </>
+    ),
+    github: "https://github.com/sameerkali/portfolio69",
+    demo: "https://sameer69.netlify.app/"
+  },
+  6: {
+    title: "Portfolio for client",
+    image: projectSix,
     description: (
       <>
         <p>

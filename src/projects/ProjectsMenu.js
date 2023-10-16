@@ -41,7 +41,9 @@ export default class ProjectsMenu extends Component {
       "PROJECT ONE",
       "PROJECT TWO",
       "PROJECT THREE",
-      "PROJECT Four"
+      "PROJECT Four",
+      "PROJECT Five",
+      "PROJECT Six"
     ];
 
     return (
