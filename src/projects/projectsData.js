@@ -55,7 +55,42 @@ const projects = {
     github: "https://github.com/sameerkali/FilmSloth",
     demo: "https://filmsloth.netlify.app/"
   },
+
   4: {
+    title: "Portfolio for client",
+    image: projectFive,
+    description: (
+      <>
+        <p>
+          At Explore Mount, were on a mission to be your trusted companion on
+          every journey you embark upon, whether its a spontaneous road trip or
+          a meticulously planned Global adventure. We understand the sheer joy
+          of witnessing the unspoiled beauty of nature and the thrill of
+          discovering New places, cultures, and experiences.
+        </p>
+      </>
+    ),
+    github: "https://github.com/sameerkali/explorer-mount",
+    demo: "https://explorer-mount.vercel.app/"
+  },
+  5: {
+    title: "Portfolio for client",
+    image: projectSix,
+    description: (
+      <>
+        <p>
+          FitHub is a straightforward and visually appealing landing page
+          specifically crafted for gyms and fitness centers. It offers a
+          pristine and efficient online representation, aiming to allure
+          prospective clientele and exhibit the comprehensive range of amenities
+          and services provided by the gym.
+        </p>
+      </>
+    ),
+    github: "https://github.com/sameerkali/fit-hub",
+    demo: "https://fithub-kappa.vercel.app/"
+  },
+  6: {
     title: "Portfolio for client",
     image: projectThree,
     description: (
@@ -69,38 +104,7 @@ const projects = {
     ),
     github: "https://github.com/sameerkali/portfolio69",
     demo: "https://sameer69.netlify.app/"
-  },
-  5: {
-    title: "Portfolio for client",
-    image: projectFive,
-    description: (
-      <>
-        <p>
-          Welcome to my cutting-edge Personal Portfolio Project! 🚀 In This
-          project, Ive harnessed the power of modern technologies to create a
-          unique and immersive experience for showcasing my artistic endeavors.
-        </p>
-      </>
-    ),
-    github: "https://github.com/sameerkali/portfolio69",
-    demo: "https://sameer69.netlify.app/"
-  },
-  6: {
-    title: "Portfolio for client",
-    image: projectSix,
-    description: (
-      <>
-        <p>
-          Welcome to my cutting-edge Personal Portfolio Project! 🚀 In This
-          project, Ive harnessed the power of modern technologies to create a
-          unique and immersive experience for showcasing my artistic endeavors.
-        </p>
-      </>
-    ),
-    github: "https://github.com/sameerkali/portfolio69",
-    demo: "https://sameer69.netlify.app/"
-  },
-  
+  }
 };
 
 export default projects;
