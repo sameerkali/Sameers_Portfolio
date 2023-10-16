@@ -59,7 +59,7 @@ const projects = {
     description: (
       <>
         <p>
-          Welcome to my cutting-edge Personal Portfolio Project! 🚀 In this
+          Welcome to my cutting-edge Personal Portfolio Project! 🚀 In This
           project, Ive harnessed the power of modern technologies to create a
           unique and immersive experience for showcasing my artistic endeavors.
         </p>
