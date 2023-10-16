@@ -14,10 +14,12 @@
   width: 40%;
   margin-top: 12rem;
   align-items: flex-end;
+  margin-top: 5rem;
+
 }
 
 .project-item {
-  height: 3.75rem;
+  height: 3.5rem;
   width: 90%;
   display: flex;
   position: relative;
@@ -73,6 +75,7 @@
   width: 50%;
   height: 2.75rem;
   text-align: center;
+
 }
 
 .link-container {
