@@ -57,7 +57,7 @@ const projects = {
   },
 
   4: {
-    title: "Portfolio for client",
+    title: "Explorer Mount",
     image: projectFive,
     description: (
       <>
@@ -74,7 +74,7 @@ const projects = {
     demo: "https://explorer-mount.vercel.app/"
   },
   5: {
-    title: "Portfolio for client",
+    title: "FitHub",
     image: projectSix,
     description: (
       <>
